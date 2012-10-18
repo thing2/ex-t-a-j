@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.exercisetracker.app"
+    version   = "1.0.0">
+
+<name>Exercise Tracker</name>
+
+<preference ex="android-minSdkVersion" value="7" />
+<preference network="permissions" value="http://api.phonegap.com/1.0/network"/>
+<preference network="permissions" value="http://api.phonegap.com/1.0/geolocation"/>
+
+<icon src="icon.png" />
+<description>
+Welcome to the ExerciseTracker  app. By clicking Track Workout you can record your workouts using the GPS feature on your phone.
+</description>
+
+<author email="josephprimo@live.com">
+Joseph Votto
+</author>
+
+</widget>

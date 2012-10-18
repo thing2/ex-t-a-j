@@ -7,8 +7,8 @@
 <name>Exercise Tracker</name>
 
 <preference ex="android-minSdkVersion" value="7" />
-<preference network="permissions" value="http://api.phonegap.com/1.0/network"/>
-<preference track="permissions" value="http://api.phonegap.com/1.0/geolocation"/>
+<feature name="http://api.phonegap.com/1.0/network"/>
+<feature name="http://api.phonegap.com/1.0/geolocation"/>
 
 <icon src="icon.png" />
 <description>
